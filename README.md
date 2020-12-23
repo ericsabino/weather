@@ -15,12 +15,12 @@ Esta API faz integração com a Open Weather para buscar o clima por cidade
 **Springboot** - Com configurações rápidas, você consegue, disponibilizar uma aplicação baseada no Spring. No caso disponibilizamos uma API.
 
 
-##Arquitetura - Clean Arch
+## Arquitetura - Clean Arch
 
 <img src="/img/Clean-Arch.jpg" alt="Clean Arch"/>
 
 
-##Como Utilizar
+## Como Utilizar
 
 Assim que clonar o projeto para sua máquina é preciso rodar o **mvn install** para que o **mapStruct** consiga gerar a implementação do mapper automaticamente.
 
@@ -28,7 +28,7 @@ Após isso basta executar a classe **WeatherApplication**
 
 
 
-##Collection Postman
+## Collection Postman
 <https://www.getpostman.com/collections/d25a19a3f95bd98a545e>
 
 Se preferir, pode executar diretamente do browser (Sendo %20 um caracter de espaço)
