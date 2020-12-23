@@ -13,11 +13,12 @@ Esta API faz integração com a Open Weather para buscar o clima por cidade
 **Jasypt** - Para fazer a decriptografia do meu appId.
 
 **Springboot** - Com configurações rápidas, você consegue, disponibilizar uma aplicação baseada no Spring. No caso disponibilizamos uma API.
- 
 
-## Arquitetura - Clean Arch
+
+##Arquitetura - Clean Arch
 
 <img src="/img/Clean-Arch.jpg" alt="Clean Arch"/>
+
 
 ##Como Utilizar
 
